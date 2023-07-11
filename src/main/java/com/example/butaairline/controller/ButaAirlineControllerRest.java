@@ -1,8 +1,8 @@
 package com.example.butaairline.controller;
 
 
-import com.example.butaairline.dto.ButaAirlineRequestDto;
-import com.example.butaairline.dto.Root;
+import com.example.butaairline.apidto.ButaAirlineRequestDto;
+import com.example.butaairline.apidto.Root;
 import com.google.gson.Gson;
 import org.springframework.http.*;
 import org.springframework.web.bind.annotation.GetMapping;

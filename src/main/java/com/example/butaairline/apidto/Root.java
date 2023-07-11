@@ -1,4 +1,4 @@
-package com.example.butaairline.dto;
+package com.example.butaairline.apidto;
 
 import lombok.Data;
 

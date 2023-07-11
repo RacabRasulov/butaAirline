@@ -1,6 +1,6 @@
 package com.example.butaairline.client;
 
-import com.example.butaairline.dto.ButaAirlineRequestDto;
+import com.example.butaairline.apidto.ButaAirlineRequestDto;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.PostMapping;
 
